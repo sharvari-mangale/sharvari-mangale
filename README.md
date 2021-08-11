@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharvari-mangale
 - 👀 I’m interested in Web Development & Data Science.
 - 🌱 I’m currently learning Information Technology.
-- 💞️ I’m lookin 
+- 
 - 📫 How to reach me sharvarim2701@gmail.com
 
 <!---
