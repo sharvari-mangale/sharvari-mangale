@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#nav-bar {
+    background-color: #14020e88;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    float: right;
+}
+
+.navbar {
+    padding: 0 !important;
+    color: rgb(182, 231, 250);
+    background-image: url("navbar.jpg");
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    color: rgb(14, 8, 8) !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+    color: #110902bb!important;
+}
+
+.nav-link {
+    float: right;
+    color: #1a0a0ae0!important;
+}
+
+.nav-link:hover {
+    background-color: rgb(214, 228, 250);
+}
+
+
+/*------------ navbar css ends here ----------------*/
+
+#main {
+    text-align: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("bank1.jpg");
+}
+
+.my-info {
+    padding: 2rem 5rem;
+}
+
+.btn-info {
+    padding: 1rem 1.2rem;
+    background-color: #fff!important;
+    color: #000!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover {
+    background-color: rgb(228, 248, 155)!important;
+}
